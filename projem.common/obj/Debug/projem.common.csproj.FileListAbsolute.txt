@@ -1,0 +1,24 @@
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\obj\Debug\projem.common.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\projem.common.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\projem.common.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\projem.common.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\EntityFramework.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\EntityFramework.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\obj\Debug\projem.common.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\obj\Debug\projem.common.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\obj\Debug\projem.common.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem.common\obj\Debug\projem.common.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\projem.common.dll.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\projem.common.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\projem.common.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\EntityFramework.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\EntityFramework.SqlServer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\EntityFramework.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\bin\Debug\EntityFramework.SqlServer.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\obj\Debug\projem.common.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\obj\Debug\projem.common.csproj.CoreCompileInputs.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\obj\Debug\projem.common.csproj.CopyComplete
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\obj\Debug\projem.common.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem.common\obj\Debug\projem.common.pdb

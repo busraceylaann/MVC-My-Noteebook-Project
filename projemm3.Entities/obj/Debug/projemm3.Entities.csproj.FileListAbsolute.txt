@@ -1,0 +1,12 @@
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.Entities\bin\Debug\projemm3.Entities.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.Entities\bin\Debug\projemm3.Entities.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.Entities\bin\Debug\projemm3.Entities.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.Entities\bin\Debug\projemm3.Entities.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.csproj.CoreCompileInputs.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.Entities\obj\Debug\projemm3.Entities.pdb

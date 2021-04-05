@@ -1,0 +1,12 @@
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem3.core\bin\Debug\projem3.core.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem3.core\bin\Debug\projem3.core.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem3.core\obj\Debug\projem3.core.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem3.core\obj\Debug\projem3.core.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem3.core\obj\Debug\projem3.core.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projem3.core\obj\Debug\projem3.core.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem3.core\bin\Debug\projem3.core.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem3.core\bin\Debug\projem3.core.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem3.core\obj\Debug\projem3.core.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem3.core\obj\Debug\projem3.core.csproj.CoreCompileInputs.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem3.core\obj\Debug\projem3.core.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projem3.core\obj\Debug\projem3.core.pdb

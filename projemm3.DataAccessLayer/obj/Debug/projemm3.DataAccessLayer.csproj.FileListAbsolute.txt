@@ -1,0 +1,46 @@
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.DataAccessLayer.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.DataAccessLayer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.DataAccessLayer.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.Entities.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.Entities.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projem.common.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projem.common.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projem.common.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projem3.core.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\bin\Debug\projem3.core.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.Migrations.OrnekMigration.resources
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csproj.GenerateResource.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.DataAccessLayer.dll.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.DataAccessLayer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.DataAccessLayer.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\FakeData.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projem.common.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projem3.core.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.Entities.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projem.common.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projem.common.dll.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projem3.core.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\projemm3.Entities.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\bin\Debug\FakeData.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.Migrations.OrnekMigration.resources
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csproj.GenerateResource.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.csproj.CopyComplete
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.DataAccessLayer\obj\Debug\projemm3.DataAccessLayer.pdb

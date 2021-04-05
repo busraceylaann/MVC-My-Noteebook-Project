@@ -1,0 +1,89 @@
+﻿@using projemm3.Entities
+@model List<Note>
+
+    
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<!-- Page Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.Partial("_PartialCategories")
+        </div>
+        <div class="col-md-9">
+            <div class="row carousel-holder">
+                <div class="col-md-12">
+                    @{ 
+                        Html.RenderAction("Slider", "Galeri");
+                    }
+
+                </div>
+            </div>
+            <div class="row">
+                @foreach (Note notes in Model)
+                {
+                    <div class="col-sm-4 col-lg-4 col-md-4" data-note-id="@notes.Id">
+                        <div class="thumbnail" style="height:auto;">
+                            <img src="@Url.Content(String.Format(notes.Notresim))" alt="" style="height:150px;width:350px;">
+                            <div class="caption">
+                                <h6 class="text-right">
+                                    @notes.ModifiedUsername <span class="glyphicon glyphicon-user"></span><br />
+                                    @notes.ModifiedOn.ToString("dd.MM.yy HH:mm") <span class="glyphicon glyphicon-time"></span>
+                                </h6>
+                                <h4 class="-right"></h4>
+                                <h4>
+                                    <a href="#" data-toggle="modal" data-target="#modal_notedetail" data-note-id="@notes.Id">
+                                        @notes.Title
+                                    </a>
+                                </h4>
+
+                                @if (string.IsNullOrEmpty(notes.Text) == false && notes.Text.Length > 60)
+                                {
+                                    <p>@(notes.Text.Substring(0, 60) + "\n...")</p>
+                                    <p class="pull-right"> <a href="#" data-toggle="modal" data-target="#modal_notedetail" data-note-id="@notes.Id" class="btn btn-default btn-sm">Devamı <span class="glyphicon glyphicon-chevron-right"></span></a></p>
+                                }
+                                else
+                                {
+                                    <p>@notes.Text</p>
+
+                                }
+                            </div>
+                            <div>
+                                <hr />
+                            </div>
+                            <div class="ratings">
+                                <p class="pull-right">
+                                    <button class="btn btn-default  btn-sm" data-toggle="modal" data-target="#modal_comment" data-note-id="@notes.Id">
+                                        <span class="glyphicon glyphicon-comment "></span> Yorumlar
+                                    </button>
+                                </p>
+                                <p>
+                                    <button class="btn btn-default  btn-sm" type="button" data-liked="false" data-note-id="@notes.Id">
+                                        <span class="glyphicon glyphicon-star-empty like-star "></span>&nbsp;<span class="like-count">@notes.LikeCount</span>
+                                    </button>
+
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+@section footer {@Html.Partial("_PartialFooter")}
+
+@Bootstrap.ModalPopup(id: "modal_comment", title: "Yorumlar")
+@Bootstrap.ModalPopup(id: "modal_notedetail", title: "Not Detayı")
+
+<script src="~/Scripts/comment.js"></script>
+
+<script src="~/Scripts/like.js"></script>
+
+<script src="~/Scripts/notedetail.js"></script>

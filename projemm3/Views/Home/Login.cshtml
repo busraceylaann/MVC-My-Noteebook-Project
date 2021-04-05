@@ -1,0 +1,48 @@
+﻿@using  projemm3.Entities.ValueObjects
+@model LoginViewModel
+
+@{
+    ViewBag.Title = "Benim Notlarım- Giriş Sayfası";
+}
+
+<link href="~/Content/login.css" rel="stylesheet" />
+<link href="~/Content/validation-summary.css" rel="stylesheet" />
+
+@using (Html.BeginForm())
+{
+<body id="LoginForm">
+    <div class="container">
+        <h1 class="form-heading">Giriş Formu</h1>
+        <div class="login-form">
+            <div class="main-div">
+                <div class="panel">
+                    <h2>Giriş Yap</h2>
+                    <p>Lütfen E-posta ve Şifrenizi Giriniz</p>
+                    @Html.ValidationSummary(false)
+                    @if(ViewBag.SetLink != null)
+                     {
+                       <a href="@ViewBag.SetLink" class="btn btn-primary">Activate</a>
+                     }
+                </div>
+                <form id="Login">
+                    <div class="form-group">
+                        @Html.TextBoxFor(model => model.Username, new { @class = "form-control", placeholder = "Kullanıcı Adınız" })
+
+                    </div>
+                    <div class="form-group">
+
+                        @Html.TextBoxFor(model => model.Password, new { @class = "form-control", placeholder = "Şifreniz",type="password" })
+                    </div>
+
+                    <button type="submit" class="btn btn-primary">Giriş Yap</button>
+                </form>
+            </div>
+            <p class="botto-text"> </p>
+        </div>
+    </div>
+
+
+</body>
+}
+
+

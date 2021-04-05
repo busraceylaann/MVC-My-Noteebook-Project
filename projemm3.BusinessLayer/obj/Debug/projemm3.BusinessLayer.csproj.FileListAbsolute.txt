@@ -1,0 +1,48 @@
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.BusinessLayer.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.BusinessLayer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.BusinessLayer.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.DataAccessLayer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.Entities.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.DataAccessLayer.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.DataAccessLayer.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.Entities.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.csproj.CopyComplete
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\FakeData.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\FakeData.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projem.common.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projem.common.pdb
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projem.common.dll.config
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projem3.core.dll
+C:\Users\BÜŞRA CEYLAN\Desktop\projemm3\projemm3.BusinessLayer\bin\Debug\projem3.core.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.BusinessLayer.dll.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.BusinessLayer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.BusinessLayer.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projem.common.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projem3.core.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.DataAccessLayer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.Entities.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\FakeData.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projem.common.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projem.common.dll.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projem3.core.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.DataAccessLayer.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.DataAccessLayer.dll.config
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\projemm3.Entities.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\bin\Debug\FakeData.pdb
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.csprojAssemblyReference.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.csproj.CopyComplete
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.dll
+D:\dersler\174410039 Hatice Büşra Ceylan Projeler\projemm3\projemm3.BusinessLayer\obj\Debug\projemm3.BusinessLayer.pdb

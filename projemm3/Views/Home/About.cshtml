@@ -1,0 +1,41 @@
+﻿
+@{
+    ViewBag.Title = "About";
+}
+
+<!-- Page Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.Partial("_PartialCategories")
+        </div>
+        <div class="col-md-7 col-md-offset-1">
+
+            <div class="row">
+                <h2>
+                    Anında paylaşmanız gereken notlarınızı online olarak kayıt ederek sonra kullanabileceğiniz pek çok girişim var.
+
+                </h2>
+                <hr />
+                <img src=@Url.Action(String.Format("516724_55332_1543347770_1000.jpg")) class="center-block img-responsive img-rounded img-circle thumbnail" alt="Alternate Text" />
+                <hr />
+                <p>
+                    Aldığnız notları pratik bir şekilde paylaşmanızı sağlayan uygulamaya bir süre sonra dosya ekleme, yazdırma, e-posta ile gönderme ve hesap oluşturma gibi özellikler eklenecek. Kolay kullanımlı bir uygulama olan Notes.io, kısa notları paylaşmak ve online bir alanda tutmak için faydalı araç olabilir.
+                </p>
+                <p>
+                    Bir girişim olmaktan uzak olan uygulama, daha çok insanların kullanımına sunulmuş ücretsiz bir servis durumunda. Uygulamanın ömürü ne kadar sürer, aldığınız notlar ne kadar süreyle güvende kalır bilemiyorum. Ama tasarımı ve kolay kullanımıyla başarılı bir servis olarak paylaşmak istedim. Denemek isteyenleri buradan alalım.
+                </p>
+                <p>
+                    Eğer hedef kitlenizi tanımlayamazsanız, onlarla iletişim kuramazsınız. Yazdıklarınızı okumalarını istiyorsanız hedef kitlenizin kimler olduğunu, ne sevip ne sevmediklerini, ne yiyip ne içtiklerini anlamaya çalışmak zorundasınız.
+                </p>
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.container -->
+@section footer {
+    @Html.Partial("_PartialFooter")
+}
+
